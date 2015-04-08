@@ -1,2 +1,4 @@
 # hello-world
-Hi all 
+Hi everyone
+
+this is raj and have corrected all to everyone
